@@ -1,2 +1,26 @@
-# DATA-Visualization-with-Python
-Created interactive and informative data visualizations using Python libraries such as Matplotlib and Seaborn to present insights through charts, graphs, and dashboards for better decision-making.
+# Data Visualization
+
+## 📌 Overview
+This project demonstrates how data can be transformed into meaningful visualizations using Python to communicate insights effectively.
+
+## 🎯 Objectives
+- Create clear and informative visualizations
+- Analyze trends and patterns
+- Present insights using charts and graphs
+
+## 🛠️ Tools & Libraries
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+
+## 📊 Visualizations Created
+- Bar Chart
+- Line Chart
+- Histogram
+- Pie Chart
+- Scatter Plot
+- Heatmap
+
+## 📈 Outcome
+The visualizations help identify trends, compare values, and support data-driven decision-making.
